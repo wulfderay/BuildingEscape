@@ -1,6 +1,11 @@
+# UNreal generated fluff
 */Build
 */Binaries
 */DerivedDataCache
 */Intermediate
 */Saved
+BuildingEscape/Content/StarterContent/
 
+# Vs generatedfluff
+
+*.VC.db
